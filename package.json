@@ -1,3 +1,4 @@
+
 {
   "name": "alganews-sdk",
   "version": "1.0.0",
@@ -9,9 +10,6 @@
   },
   "devDependencies": {
     "fs-extra": "^10.0.0",
-    "typescript": "^4.3.4"
-  },
-  "dependencies": {
-    "cross-env": "^7.0.3"
+    "typescript": "^4.4.3"
   }
 }
